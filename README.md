@@ -36,6 +36,7 @@ Video
 <img width="700" src="https://user-images.githubusercontent.com/44941601/76958321-dcc39600-695a-11ea-874a-054df10d44bf.png"> 
 
 <hr/>
+
 🔧開発情報
 ---------
 
