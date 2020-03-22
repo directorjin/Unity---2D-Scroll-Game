@@ -3,9 +3,11 @@
 このゲームは2017年に初めて独りで作った2Dゲームです。 足りない部分が多いので、後で修正して説明を詳しく作成します。
 ------
 <hr>
+
 Video
 ----
-敗北 : 
+  
+敗北 :   
 <img width="700" src="https://user-images.githubusercontent.com/44941601/76968315-0afda180-696c-11ea-8285-7a54133bdb0e.gif">
 
 勝利 :   
